@@ -16,7 +16,7 @@ img{
     border: 10px groove #1C6EA4;
 }
 
-ol li{
+ol li:first-child{
     text-transform: uppercase;
 }
 
