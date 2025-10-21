@@ -1,0 +1,26 @@
+body {
+font-family: Georgia, serif;
+font-size: 25px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #FF0000;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+background: #61F54A url("/images/smiley.png") no-repeat scroll 0 0;
+}
+
+img{
+    border: 10px groove #1C6EA4;
+}
+
+ol li{
+    text-transform: uppercase;
+}
+
+ul li:first-child {
+  color: purple;
+  font-size: 30;
+}
